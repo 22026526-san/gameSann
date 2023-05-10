@@ -18,8 +18,6 @@ bool bird::init(bool isDark)
         saved_path = bird_path;
         if ( Load(bird_path.c_str() , 1) )
         {
-            //angle = 0;
-            //time = -1;
             return true;
         }
         else
