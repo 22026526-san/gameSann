@@ -1,3 +1,5 @@
+# Giới thiệu:
+- võ QUANG SÁNG - 22026526 - K67J 
 # Ý Tưởng : 
 - FlappyBird viết bằng c++ và SDL2
 # Lí Do : 
