@@ -6,13 +6,13 @@
 - đây là game khá phổ biến và đã được viết bởi nhiều ngôn ngữ như python, c# , c++ kết hợp js , v...v.. nên em sẽ có 
 được nhiều nguồn tài liệu để tham khảo.
 # Giới thiệu : 
-1, Tính Năng 
+1. Tính Năng 
 - Game có thể đổi icon nhân vật ở PauseTab.
    + red_bird(ứng với background ban ngày).
    +  black_bird(ứng với background ban đêm).
-- có thể tắt hoặc bật nhạc trong PauseTab.
+- có thể tắt hoặc bật âm thanh trong PauseTab.
 - có chức năng BestScore lưu điểm cao nhất của người chơi.
-2, Cách Chơi
+2. Cách Chơi
 - Sử dụng các phím SPACE,UP,CLICK CHUỘT để điều khiển chim đi qua các khoảng không giữa 2 cột ,mỗi lần như thế sẽ được +1 điểm.
 - Người chơi có thể bấm phím ESC để di chuyển đến PauseTab trong lúc chơi để tùy chỉnh icon nhân vật hoặc bật tắt âm thanh. 
 
