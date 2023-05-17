@@ -8,8 +8,8 @@
 # Giới thiệu : 
 1, Tính Năng 
 - Game có thể đổi icon nhân vật ở PauseTab.
- + red_bird(ứng với background ban ngày).
- + black_bird(ứng với background ban đêm).
+   + red_bird(ứng với background ban ngày).
+   +  black_bird(ứng với background ban đêm).
 - có thể tắt hoặc bật nhạc trong PauseTab.
 - có chức năng BestScore lưu điểm cao nhất của người chơi.
 2, Cách Chơi
