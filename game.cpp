@@ -333,7 +333,7 @@ void game::renderBackgroundNight()
 void game::renderLand()
 {
 	LTexture image;
-	image.Load("data/image/land.png", 1);
+	image.Load("data/image/land_.png", 1);
 	image.Render((SCREEN_WIDTH - image.getWidth()) / 2, SCREEN_HEIGHT- image.getHeight());
 	image.free();
 }
